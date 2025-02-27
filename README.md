@@ -6,7 +6,7 @@ This project aims to **automatically classify the time complexity** of given cod
 ## 🔥 Features
 - **Automated Time Complexity Analysis** using NLP techniques.
 - **Pretrained CodeBERT Model** fine-tuned on a dataset of code snippets.
-- **Supports java programming language.
+- Supports **Java** programming language.
 - **Interactive visualizations** for result interpretation.
 
 ## 📊 Dataset
